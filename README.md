@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @N2xPun
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web development
+- 😄 Pronouns: he/him
